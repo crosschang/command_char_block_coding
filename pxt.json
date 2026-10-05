@@ -6,6 +6,8 @@
         "builder": "*"
     },
     "files": [
+        "custom.ts",
+        "_locales/ko/command-learning-blocks-strings.json",
         "main.blocks",
         "main.ts",
         "README.md"
