@@ -1,5 +1,6 @@
 {
     "name": "command_char_block_coding",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
