@@ -9,6 +9,7 @@
     "files": [
         "custom.ts",
         "_locales/ko/command_char_block_coding-strings.json",
+        "effect_summon_command_lesson_1v.md",
         "main.blocks",
         "main.ts",
         "README.md"
