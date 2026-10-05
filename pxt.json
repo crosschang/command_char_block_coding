@@ -7,7 +7,7 @@
     },
     "files": [
         "custom.ts",
-        "_locales/ko/command-learning-blocks-strings.json",
+        "_locales/ko/command_char_block_coding-strings.json",
         "main.blocks",
         "main.ts",
         "README.md"
