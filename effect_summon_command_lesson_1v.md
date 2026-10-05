@@ -421,3 +421,7 @@ c
 이제 실제 Minecraft 채팅창에서 같은 커맨드를 직접 입력해 보세요.
 
 블록을 보고 줄 커맨드의 구조가 떠오르면 성공입니다.
+
+```package
+command_char_block_coding=github:crosschang/command_char_block_coding
+```
