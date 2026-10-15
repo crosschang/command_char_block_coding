@@ -12,7 +12,8 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "effect_summon_command_lesson_1v.md"
+        "effect_summon_command_lesson_KO_1v.md",
+        "effect_summon_command_lesson_EN_1v.md"
     ],
     "testFiles": [
         "test.ts"
